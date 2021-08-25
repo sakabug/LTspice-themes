@@ -4,13 +4,19 @@ Relatively easy way to switch themes on LTspiceXVII on windows once you're all s
 
 ## Usage
 
-1) Run `LTspice-themes sakabug-dark` in PowerShell while LTspice is closed.
-2) Open LTspice, and sakabug-dark theme is active.
+1) Run `LTspice-themes sakabug` in PowerShell while LTspice is closed.
+2) Open LTspice, and sakabug theme is active.
 
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p2.jpg?raw=true)
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p3.jpg?raw=true)
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p5.jpg?raw=true)
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p6.jpg?raw=true)
+
+
+## Current Themes
+
+`default, sakabug, twilight-after-dawn, dracula`
+
 
 ## How do get it work?
 
@@ -38,8 +44,8 @@ function LTspice-themes ([string]$theme) {
 }
 ```
 
-4) Restart PowerShell and run `LTspice-themes sakabug-dark` in PowerShell while LTspice is closed.
-5) Open LTspice, and sakabug-dark theme is active.
+4) Restart PowerShell and run `LTspice-themes sakabug` in PowerShell while LTspice is closed.
+5) Open LTspice, and sakabug theme is active.
 
 ## Adding new themes
 
@@ -58,7 +64,3 @@ function LTspice-themes ([string]$theme) {
 
 If you want to share your theme, I can centralize them here.
 And sorry, don't have any Mac devices on hand.
-
-## Current Themes
-
-`default, sakabug-dark, metacollin-dark`
