@@ -7,7 +7,6 @@ Relatively easy way to switch themes on LTspiceXVII on windows once you're all s
 1) Run `LTspice-themes sakabug-dark` in PowerShell while LTspice is closed.
 2) Open LTspice, and sakabug-dark theme is active.
 
-![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p1.jpg?raw=true)
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p2.jpg?raw=true)
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p3.jpg?raw=true)
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p5.jpg?raw=true)
