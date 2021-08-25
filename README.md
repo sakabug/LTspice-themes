@@ -11,7 +11,11 @@ Relatively easy way to switch themes on LTspiceXVII on windows once you're all s
 
 ## Current Themes
 
-`default, sakabug, twilight-after-dawn, dracula`
+`default, sakabug`
+
+`twilight-after-dawn` https://gist.github.com/metacollin/99f994237af90a7b5ebf82581e01a507
+
+`dracula` https://github.com/dracula/ltspice
 
 **default**
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/default.jpg?raw=true)
