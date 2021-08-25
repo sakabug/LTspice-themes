@@ -22,7 +22,7 @@ Relatively easy way to switch themes on LTspiceXVII on windows once you're all s
 ### LTspice-themes ###
 function LTspice-themes ([string]$theme) {
   $file1 = "$HOME\appdata\roaming\LTspiceXVII.ini"
-  $file2 = "$HOME\appdata\roaming\LTspice-themes.txt"
+  $file2 = "D:\Tiedostot\Gits\LTspice-themes\LTspice-themes.txt"
   $content1 = Get-Content -Path $file1
   $content2 = Get-Content -Path $file2
   foreach ($line in $content2){
@@ -58,3 +58,7 @@ function LTspice-themes ([string]$theme) {
 
 If you want to share your theme, I can centralize them here.
 And sorry, don't have any Mac devices on hand.
+
+## Current Themes
+
+`default, sakabug-dark, metacollin-dark`
