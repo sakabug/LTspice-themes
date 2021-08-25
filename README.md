@@ -64,7 +64,7 @@ function LTspice-themes ([string]$theme) {
 1) Open LTspice-themes.txt.
 2) Open LTspice and edit color theme to your liking from palette, and **close LTspice**.
 3) Open LTspiceXVII.ini and copy paste entire [Colors] section to the LTspice-themes.txt to the end of the file.
-4) Still .txt change the newly brought profile's [Colors] line to [theme-name], and save.
+4) Still in the .txt change the newly brought profile's [Colors] line to [theme-name], and save.
 
 ### Or
  
