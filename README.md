@@ -8,14 +8,26 @@ Relatively easy way to switch themes on LTspiceXVII on windows once you're all s
 2) Open LTspice, and sakabug theme is active.
 
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p2.jpg?raw=true)
-![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p3.jpg?raw=true)
-![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p5.jpg?raw=true)
-![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p6.jpg?raw=true)
-
 
 ## Current Themes
 
-`default, sakabug, twilight-after-dawn, dracula`
+`default, sakabug`
+
+`twilight-after-dawn` https://gist.github.com/metacollin/99f994237af90a7b5ebf82581e01a507
+
+`dracula` https://github.com/dracula/ltspice
+
+**default**
+![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/default.jpg?raw=true)
+
+**sakabug**
+![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/sakabug.jpg?raw=true)
+
+**twilight-after-dawn**
+![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/twilight.jpg?raw=true)
+
+**dracula**
+![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/dracula.jpg?raw=true)
 
 
 ## How do get it work?
