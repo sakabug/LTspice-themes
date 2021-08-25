@@ -61,4 +61,4 @@ And sorry, don't have any Mac devices on hand.
 
 ## Current Themes
 
-`default, sakabug-dark, metacollin-dark`
+`default, sakabug, twilight-after-dawn, dracula`
