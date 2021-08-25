@@ -12,6 +12,12 @@ Relatively easy way to switch themes on LTspiceXVII on windows once you're all s
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p5.jpg?raw=true)
 ![alt text](https://github.com/sakabug/LTspice-themes/blob/main/images/p6.jpg?raw=true)
 
+
+## Current Themes
+
+`default, sakabug, twilight-after-dawn, dracula`
+
+
 ## How do get it work?
 
 1) Check where your LTspiceXVII.ini is located. Probably in \$HOME\appdata\roaming folder.
@@ -58,7 +64,3 @@ function LTspice-themes ([string]$theme) {
 
 If you want to share your theme, I can centralize them here.
 And sorry, don't have any Mac devices on hand.
-
-## Current Themes
-
-`default, sakabug, twilight-after-dawn, dracula`
