@@ -58,3 +58,7 @@ function LTspice-themes ([string]$theme) {
 
 If you want to share your theme, I can centralize them here.
 And sorry, don't have any Mac devices on hand.
+
+## Current Themes
+
+`default, sakabug-dark, metacollin-dark`
