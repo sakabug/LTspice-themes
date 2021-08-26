@@ -1,6 +1,6 @@
-# LTspice-themes (Win)
+# LTspice-themes (PowerShell)
 
-Relatively easy way to switch themes on LTspiceXVII on windows once you're all set up.
+Relatively easy way to switch themes on LTspiceXVII with PowerShell once you're all set up.
 
 ## Usage
 
